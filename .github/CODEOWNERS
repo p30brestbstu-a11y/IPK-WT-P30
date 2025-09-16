@@ -1,5 +1,2 @@
-# Set default code owners (adjust GitHub handles as appropriate)
-*       @brstu/maintainers
-
-# Example: route student folders to mentors (customize as needed)
-# /students/* @brstu/mentors
+# Single approver for all paths
+*       @andreiNiasiuk
