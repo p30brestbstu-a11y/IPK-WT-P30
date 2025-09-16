@@ -1,0 +1,29 @@
+name: Lint
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  super-lint:
+    name: Lint Markdown and HTML
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Super-Linter
+        uses: github/super-linter@v6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DEFAULT_BRANCH: main
+          VALIDATE_ALL_CODEBASE: true
+          VALIDATE_MARKDOWN: true
+          MARKDOWN_CONFIG_FILE: .markdownlint.yaml
+          VALIDATE_HTML: true
+          # Disable other languages to keep CI fast and quiet
+          VALIDATE_JAVASCRIPT_ES: false
+          VALIDATE_CSS: false
+          VALIDATE_YAML: false
+          VALIDATE_JSON: false

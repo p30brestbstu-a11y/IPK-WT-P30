@@ -1,0 +1,47 @@
+name: Bug report
+description: Report a problem to help us improve
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+      placeholder: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Provide steps so we can reproduce.
+      placeholder: 1) Go to ..., 2) Click ..., 3) See error
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: If applicable, add screenshots to help explain your problem.
+  - type: input
+    id: student_dir
+    attributes:
+      label: Student directory (if applicable)
+      placeholder: students/<id>/task_xx
+  - type: dropdown
+    id: tasks
+    attributes:
+      label: Affected task
+      options:
+        - task_00
+        - task_01
+        - task_02
+        - task_03
+        - task_04
+        - task_05
+        - task_06
+        - task_07
