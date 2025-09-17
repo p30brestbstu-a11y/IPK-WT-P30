@@ -26,3 +26,13 @@ jobs:
           VALIDATE_CSS: true
           VALIDATE_YAML: true
           VALIDATE_JSON: true
+
+          # Дополнительные линтеры для всех используемых технологий
+          VALIDATE_TYPESCRIPT_ES: true
+          VALIDATE_CSHARP: true
+          VALIDATE_DOCKERFILE_HADOLINT: true
+          VALIDATE_SQL: true
+          VALIDATE_XML: true
+          VALIDATE_POWERSHELL: true
+          VALIDATE_BASH: true
+          VALIDATE_PYTHON: true

@@ -6,7 +6,7 @@
 
 - [ ] Follows students/<id>/task_xx/{doc,src} structure
 - [ ] Added/updated `doc/readme.md` with screenshots/instructions
-- [ ] CI passes (Markdown/HTML lint)
+- [ ] CI passes (all linters)
 - [ ] Reviewed at least two classmates' PRs
 
 ## Screenshots (optional)

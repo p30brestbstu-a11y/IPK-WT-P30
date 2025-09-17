@@ -6,7 +6,7 @@ repository:
   description: "Лабораторные работы по курсу Веб‑технологии (ИПК)"
   homepage: ""
   private: false
-  has_issues: true
+  has_issues: false
   has_projects: false
   has_wiki: false
   default_branch: main
