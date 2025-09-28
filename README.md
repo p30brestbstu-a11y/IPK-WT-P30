@@ -32,6 +32,7 @@
 | 1  |  Максим Сивак   | [dir](./students/MaksimSivak/) | ✓   | ✓   |  ✓  |  ✓  |  ✓  | ✓   |  ✓  |  ✓   |    |    |     |     |     |     |     |     |     |         |
 | 2  |  Катя Овечкина   | [dir](./students/kateSaharok) | ✓   | ✓   |  ✓  |  ✓  |   |   |  |     |    |    |     |     |     |     |     |     |     |         |
 | 3  |  Ирина Бортюк   | [dir](./students/IrinaBartsiuk) | ✓   | ✓   |  ✓  |   ✓   |   |   |  |     |    |    |     |     |     |     |     |     |     |         |
+| 4  |  Филонюк Сергей   | [dir](./students/FilonyukSergei/) | ✓   | ✓   |  ✓  |  ✓  |  ✓  | ✓   |  ✓  |  ✓   |    |    |     |     |     |     |     |     |     |         |
 | 99 | Тестов Тест Тестович | [students/your_id](./students/your_id/) | ✓  |    |    |    |    |    |    |    |    |    |     |     |     |     |     |     |     |         |
 
 <!-- Table styles for GitHub Pages/Docs; ignored in GitHub README rendering -->
