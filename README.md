@@ -35,6 +35,7 @@
 | 4  |  Филонюк Сергей   | [dir](./students/FilonyukSergei/) | ✓   | ✓   |  ✓  |  ✓  |  ✓  | ✓   |  ✓  |  ✓   |    |    |     |     |     |     |     |     |     |         |
 | 5  |  Станислав Шульган   | [dir](./students/ShulhanStanislav/) | ✓   | ✓   |  ✓  |  ✓  |  ✓  | ✓   |  ✓  |  ✓   |    |    |     |     |     |     |     |     |     |         |
 | 6  |  Сергей Терентьев   | [dir](TerentyevSergey) | ✓   |    |   |     |   |   |  |     |    |    |     |     |     |     |     |     |     |         |
+| 7  |  Ирина Рождественская   | [dir](TerentyevSergey) | ✓   |  ✓  |  ✓ | ✓  |   |   |  |     |    |    |     |     |     |     |     |     |     |         |
 | 99 | Тестов Тест Тестович | [students/your_id](./students/your_id/) | ✓  |    |    |    |    |    |    |    |    |    |     |     |     |     |     |     |     |         |
 
 <!-- Table styles for GitHub Pages/Docs; ignored in GitHub README rendering -->
